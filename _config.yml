@@ -1,0 +1,23 @@
+name: nopatanswerst
+favicon: null
+layout_spectrum: 0.11332618282176554
+typography_spectrum: 0.6383769495878369
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6395338447764516
+  lightness: 0.5342169692739844
+  saturation: 0.39525167527608573
+  rhythmicContrast: 0.506454385118559
+purpose: []
